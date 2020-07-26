@@ -6,14 +6,13 @@
 
 **Thoughts:** Overwhelmed and a bit anxious. I misunderstood when I thought my udemy time would count towards the hour. There are many channels to join and follow, a few more responsibilities than I expected. I looked at my options and saw: 1. I could follow the lessons at FreeCodeCamp; 2. I could code HTML and CSS, since I 'know' them already.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: July 26, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Uploaded DesignSample to GitHub. Had to separate it from Web Design folder. Learned (again) about the .git file that results from initializing the repository, then had to fix a problem where even after creating the Repo on GitHub VSCode wouldn't push the files. Kept getting an error about no remote. Found a StackOverflow answer about remotes, finally fixed it and pushed the files.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It may not have been a coding exercise but I'm counting it towards my hour because GitHub is so important to development. Still, I don't feel comfortable or confident.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
 ### Day 1: June 27, Monday

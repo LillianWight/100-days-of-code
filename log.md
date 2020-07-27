@@ -12,15 +12,15 @@
 
 **Thoughts**: It may not have been a coding exercise but I'm counting it towards my hour because GitHub is so important to development. Still, I don't feel comfortable or confident.
 
-**Link(s) to work**: 
+**Link(s) to work**:
+n/a
 
 
-### Day 1: June 27, Monday
+### Day 2: July 27, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I worked on the JavaScript IMAP code, trying to get it to work with the configurations provided by the email host. I returned to facesofcovid.net and added a notice about demo photos and started renaming some classes to make them more semantic and to organize them so fewer of them would have to be changed for different photos. Dario's demo is broken now so I will fix it tomorrow.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I thought about quitting twice today. It still feels unnatural and overwhelming.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+n/a

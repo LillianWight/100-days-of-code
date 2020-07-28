@@ -24,3 +24,18 @@ n/a
 
 **Link(s) to work**
 n/a
+
+
+### Day 3: July 28, 2020
+
+**Today's Progress**: I spent an hour doing exercise 1a of the Chapter 8 labs from https://www.udemy.com/course/learn-to-program-with-java-2/. First I couldn't think how to write the program (I was over-complicating it); then I had trouble creating a repo for it at GitHub. When I included the 'package' line in VSCode like I do when I write Java using Notepad++ it caused all kinds of locating issues. The fix suggestion was to create the location, which I did - but that just put a "labs" folder within the "labs" folder where I had located the Mult2.java file in the first place. I fixed that, then when I got the error again I took the suggestion to just delete the 'package' line. Looks like I haven't learned everything there is to know about starting a Java file, OR it's something special with VSCode.
+VSCode wouldn't execute the code exactly as I wanted: I kept trying to make the program output a blank line before and after the numbers output but no matter what I tried it just wouldn't output a blank line before the numbers output without also outputting a line between each of the numbers. I eventually gave up trying.
+
+It seems I have some super-fundamental stuff to learn about Java programming and I have to review the section of https://www.udemy.com/course/learn-visual-studio-code/ on Source Control and GitHub, plus I'll have to take https://www.udemy.com/course/git-and-github-crash-course/ to get a better feel for GitHub as I don't understand all of what I'm seeing after creating a new Repo directly at the site.
+
+
+**Thoughts**
+I have enough knowledge to cause myself anxiety at this point. I sure hope that at the end of the 100 days I can look back at this and laugh.
+
+**Link(s) to work**
+https://github.com/LillianWight/JavaLabs

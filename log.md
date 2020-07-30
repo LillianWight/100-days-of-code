@@ -39,3 +39,15 @@ I have enough knowledge to cause myself anxiety at this point. I sure hope that 
 
 **Link(s) to work**
 https://github.com/LillianWight/JavaLabs
+
+
+
+### Day 4: July 29, 2020
+
+**Today's Progress**: I continued working on the Chapter 8 exercises from https://www.udemy.com/course/learn-to-program-with-java-2/.
+
+**Thoughts**
+Math is an obstacle; I don't have the imagination for it.
+
+**Link(s) to work**
+https://github.com/LillianWight/JavaLabs

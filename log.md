@@ -1,29 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 25, 2020
+### Day 5: July 30, 2020
 
-**Today's Progress**: Joined 100 Days of Code after listening to Alex's podcast episode on The Stack Overflow. https://stackoverflow.blog/2020/07/24/podcast-255-alex-kallaway-100-days-of-code/
+**Today's Progress**: I continued working on the Chapter 8 exercises from https://www.udemy.com/course/learn-to-program-with-java-2/. I also learned to correct a GitHub commit message (https://docs.github.com/en/github/committing-changes-to-your-project/changing-a-commit-message)
 
-**Thoughts:** Overwhelmed and a bit anxious. I misunderstood when I thought my udemy time would count towards the hour. There are many channels to join and follow, a few more responsibilities than I expected. I looked at my options and saw: 1. I could follow the lessons at FreeCodeCamp; 2. I could code HTML and CSS, since I 'know' them already.
-
-### Day 1: July 26, 2020
-
-**Today's Progress**: Uploaded DesignSample to GitHub. Had to separate it from Web Design folder. Learned (again) about the .git file that results from initializing the repository, then had to fix a problem where even after creating the Repo on GitHub VSCode wouldn't push the files. Kept getting an error about no remote. Found a StackOverflow answer about remotes, finally fixed it and pushed the files.
-
-**Thoughts**: It may not have been a coding exercise but I'm counting it towards my hour because GitHub is so important to development. Still, I don't feel comfortable or confident.
-
-**Link(s) to work**:
-n/a
-
-
-### Day 2: July 27, 2020
-
-**Today's Progress**: I worked on the JavaScript IMAP code, trying to get it to work with the configurations provided by the email host. I returned to facesofcovid.net and added a notice about demo photos and started renaming some classes to make them more semantic and to organize them so fewer of them would have to be changed for different photos. Dario's demo is broken now so I will fix it tomorrow.
-
-**Thoughts** I thought about quitting twice today. It still feels unnatural and overwhelming.
+**Thoughts**
+My Fibonacci-related programs were pretty much exactly the same as Jamie's! I am very proud of myself and very excited that I did this on my own.
 
 **Link(s) to work**
-n/a
+https://github.com/LillianWight/JavaLabs
+
+
+### Day 4: July 29, 2020
+
+**Today's Progress**: I continued working on the Chapter 8 exercises from https://www.udemy.com/course/learn-to-program-with-java-2/.
+
+**Thoughts**
+Math is an obstacle; I don't have the imagination for it.
+
+**Link(s) to work**
+https://github.com/LillianWight/JavaLabs
 
 
 ### Day 3: July 28, 2020
@@ -41,13 +37,28 @@ I have enough knowledge to cause myself anxiety at this point. I sure hope that 
 https://github.com/LillianWight/JavaLabs
 
 
+### Day 2: July 27, 2020
 
-### Day 4: July 29, 2020
+**Today's Progress**: I worked on the JavaScript IMAP code, trying to get it to work with the configurations provided by the email host. I returned to facesofcovid.net and added a notice about demo photos and started renaming some classes to make them more semantic and to organize them so fewer of them would have to be changed for different photos. Dario's demo is broken now so I will fix it tomorrow.
 
-**Today's Progress**: I continued working on the Chapter 8 exercises from https://www.udemy.com/course/learn-to-program-with-java-2/.
-
-**Thoughts**
-Math is an obstacle; I don't have the imagination for it.
+**Thoughts** I thought about quitting twice today. It still feels unnatural and overwhelming.
 
 **Link(s) to work**
-https://github.com/LillianWight/JavaLabs
+n/a
+
+
+### Day 1: July 26, 2020
+
+**Today's Progress**: Uploaded DesignSample to GitHub. Had to separate it from Web Design folder. Learned (again) about the .git file that results from initializing the repository, then had to fix a problem where even after creating the Repo on GitHub VSCode wouldn't push the files. Kept getting an error about no remote. Found a StackOverflow answer about remotes, finally fixed it and pushed the files.
+
+**Thoughts**: It may not have been a coding exercise but I'm counting it towards my hour because GitHub is so important to development. Still, I don't feel comfortable or confident.
+
+**Link(s) to work**:
+n/a
+
+
+### Day 0: July 25, 2020
+
+**Today's Progress**: Joined 100 Days of Code after listening to Alex's podcast episode on The Stack Overflow. https://stackoverflow.blog/2020/07/24/podcast-255-alex-kallaway-100-days-of-code/
+
+**Thoughts:** Overwhelmed and a bit anxious. I misunderstood when I thought my udemy time would count towards the hour. There are many channels to join and follow, a few more responsibilities than I expected. I looked at my options and saw: 1. I could follow the lessons at FreeCodeCamp; 2. I could code HTML and CSS, since I 'know' them already.

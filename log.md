@@ -2,7 +2,13 @@
 
 ### Day 6: July 31, 2020
 
-**Today's Progress**: While working on the Chapter 8 Lab exercise #4 from https://www.udemy.com/course/learn-to-program-with-java-2/, I mistyped num++ and factor++ and made them num = num++ and factor = factor++, respectively, inadvertently causing an infinite loop. I read a StackOverflow answer watched Jamie's solution before I realized what I'd done.
+**Today's Progress**: While working on the Chapter 8 Lab exercise #4 from https://www.udemy.com/course/learn-to-program-with-java-2/, I mistyped num++ and factor++ and made them num = num++ and factor = factor++, respectively, inadvertently causing an infinite loop. I read a StackOverflow answer (https://stackoverflow.com/questions/26510679/the-difference-between-num-vs-num) and watched Jamie's solution before I realized what I'd done.
+
+**Thoughts**
+Oops.
+
+**Link(s) to work**
+https://github.com/LillianWight/JavaLabs
 
 
 ### Day 5: July 30, 2020

@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 6: July 31, 2020
+
+**Today's Progress**: While working on the Chapter 8 Lab exercise #4 from https://www.udemy.com/course/learn-to-program-with-java-2/, I mistyped num++ and factor++ and made them num = num++ and factor = factor++, respectively, inadvertently causing an infinite loop. I read a StackOverflow answer watched Jamie's solution before I realized what I'd done.
+
+
 ### Day 5: July 30, 2020
 
 **Today's Progress**: I continued working on the Chapter 8 exercises from https://www.udemy.com/course/learn-to-program-with-java-2/. I also learned to correct a GitHub commit message (https://docs.github.com/en/github/committing-changes-to-your-project/changing-a-commit-message)

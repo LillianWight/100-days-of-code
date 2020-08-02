@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: August 1, 2020
+
+**Today's Progress**: Spent two hours trying to do the exercise. Finally gave up and watched Jamie's solution. Even then I kept making a mistake: I would compile the right program as I made changes but I kept running a previous program with a similar name. It took me too long to see my mistake.
+
+**Thoughts**
+Disaster. Huge setback to confidence. I've been here before, thinking I won't be able to do it. It's going to be a longer, harder road for me than it is for most people. I will make every mistake there is to make, and that will make me a subject matter expert. In the meantime, I currently suck.
+
+**Link(s) to work**
+https://github.com/LillianWight/JavaLabs
+
+
 ### Day 6: July 31, 2020
 
 **Today's Progress**: While working on the Chapter 8 Lab exercise #4 from https://www.udemy.com/course/learn-to-program-with-java-2/, I mistyped num++ and factor++ and made them num = num++ and factor = factor++, respectively, inadvertently causing an infinite loop. I read a StackOverflow answer (https://stackoverflow.com/questions/26510679/the-difference-between-num-vs-num) and watched Jamie's solution before I realized what I'd done.

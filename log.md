@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: August 3, 2020
+
+**Today's Progress**: Spent a few hours making my way through four more exercises. This time I figured out more than I didn't, but not by as wide a gap as I'm aiming for. I pushed four programs to GitHub today.
+
+**Thoughts**
+Today was much better. I know I've improved my understanding by a significant margin.
+
+**Link(s) to work**
+https://github.com/LillianWight/JavaLabs
+
+
 ### Day 8: August 2, 2020
 
 **Today's Progress**: Again spent a couple of hours trying to solve Exercise 6. Did research via Google, looked at my notes, looked at previous programs, even ended up posting on r/javahelp. My solution's flaw was in my while statement, which I have now learned how to write when trying to create a 'false' condition. I have uploaded two versions of the program; v2 is the one I was trying to do but couldn't without help. I tackled Exercise 7 but quickly (relatively) acknowledged that I wasn't going to be able to do it. I was trying to find a way to turn integers (the iteration count) into characters (the asterisks we were to print). Seeing the solution taught me how much I have to learn to visualize the desired result before I tackle it. It also taught me a little more about Java's capabilities.

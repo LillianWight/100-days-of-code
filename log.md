@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: August 4, 2020
+
+**Today's Progress**: Spent a couple of hours completing two more exercises from the udemy.com class (https://www.udemy.com/course/learn-to-program-with-java-2/). I took the EmployeeMenu program further than I had to, spending significant time developing and refining if/else if/else statements.
+
+**Thoughts**
+The exercises went very well. Syntax/structure are so critical to proper execution of Java and I am excited that I got so much nested stuff right (after a little reading). 
+
+**Link(s) to work**
+https://github.com/LillianWight/JavaLabs
+
+
 ### Day 9: August 3, 2020
 
 **Today's Progress**: Spent a few hours making my way through four more exercises. This time I figured out more than I didn't, but not by as wide a gap as I'm aiming for. I pushed four programs to GitHub today.

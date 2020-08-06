@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: August 5, 2020
+
+**Today's Progress**: I spent just about an hour following tonight's #100DaysOfCodeChats, which was about mentors. While participating on Twitter, I started looking over my code for facesofcovid.net so that I could figure out why the memory popup isn't displaying correctly. It's been a month since I've looked at it so it felt foreign and unfamiliar. I used DevTools but I haven't figured out the problem yet. I'm determined to spend some serious time making the fixes until they're done. I want very much to be able to start promoting the site to potential users.
+
+**Thoughts**
+Staying away from a language is a bad idea when I'm this new. It becomes unfamiliar very quickly. I have decided to spend a little time with Java *and* with HTML/CSS each day.
+
+**Link(s) to work**
+https://github.com/LillianWight/FacesOfCOVID
+
 ### Day 10: August 4, 2020
 
 **Today's Progress**: Spent a couple of hours completing two more exercises from the udemy.com class (https://www.udemy.com/course/learn-to-program-with-java-2/). I took the EmployeeMenu program further than I had to, spending significant time developing and refining if/else if/else statements.

@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 12: August 6, 2020
+
+**Today's Progress**: I looked over my CSS from the facesofcovid.net project line by line. I cannot see the source of the problem; the code looks essentially identical. I have posted the code to r/css and have copied the link to the post to my mentors.
+
+**Thoughts**
+Grrr. I feel like I've wasted the time.
+
+**Link(s) to work**
+https://www.reddit.com/r/css/comments/i53tv8/i_changed_my_class_names_and_now_the_code_doesnt/
+
+
 ### Day 11: August 5, 2020
 
 **Today's Progress**: I spent just about an hour following tonight's #100DaysOfCodeChats, which was about mentors. While participating on Twitter, I started looking over my code for facesofcovid.net so that I could figure out why the memory popup isn't displaying correctly. It's been a month since I've looked at it so it felt foreign and unfamiliar. I used DevTools but I haven't figured out the problem yet. I'm determined to spend some serious time making the fixes until they're done. I want very much to be able to start promoting the site to potential users.
@@ -9,6 +20,7 @@ Staying away from a language is a bad idea when I'm this new. It becomes unfamil
 
 **Link(s) to work**
 https://github.com/LillianWight/FacesOfCOVID
+
 
 ### Day 10: August 4, 2020
 

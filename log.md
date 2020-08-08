@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 13: August 7, 2020
+
+**Today's Progress**: I spent a couple of hours refining my code for facesofcovid.net. I got four demo memories fully completed. I'll make them live when they're all done. I had to make fixes based on what I learned about the issue I posted in reddit yesterday, and I found a way to repeat less CSS.
+
+**Thoughts**
+Today went really well. I wish I had time left to work on Java but I got caught up in the Web site. I still need to find a time balance.
+
+**Link(s) to work**
+https://github.com/LillianWight/FacesOfCOVID
+
+
 ### Day 12: August 6, 2020
 
 **Today's Progress**: I looked over my CSS from the facesofcovid.net project line by line. I cannot see the source of the problem; the code looks essentially identical. I have posted the code to r/css and have copied the link to the post to my mentors.

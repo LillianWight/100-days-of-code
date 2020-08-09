@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 15: August 9, 2020
+
+**Today's Progress**: I finalized all the design elements for facesofcovid.net. I put some navigation links under construction and disabled all the code relating to forms. All that's left are the media queries. I've asked our server guy to make the changes go live tomorrow.
+
+**Thoughts**
+I am proud of my work. I've learned so much and I've come very far.
+
+**Link(s) to work**
+https://github.com/LillianWight/FacesOfCOVID
+
+
 ### Day 14: August 8, 2020
 
 **Today's Progress**: I have completed the main CSS for the landing page. Next comes the media queries for responsiveness. I had to adjust one photo popup for background-position, but the others were fine. It's something that will always have to be done manually.

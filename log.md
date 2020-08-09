@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: August 8, 2020
+
+**Today's Progress**: I have completed the main CSS for the landing page. Next comes the media queries for responsiveness. I had to adjust one photo popup for background-position, but the others were fine. It's something that will always have to be done manually.
+
+**Thoughts**
+I'm really excited. I will be able to promote the site very soon.
+
+**Link(s) to work**
+https://github.com/LillianWight/FacesOfCOVID
+
 ### Day 13: August 7, 2020
 
 **Today's Progress**: I spent a couple of hours refining my code for facesofcovid.net. I got four demo memories fully completed. I'll make them live when they're all done. I had to make fixes based on what I learned about the issue I posted in reddit yesterday, and I found a way to repeat less CSS.

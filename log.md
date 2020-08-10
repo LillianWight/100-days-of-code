@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: August 10, 2020
+
+**Today's Progress**: I made facesofcovid.net completely responsive for devices smaller than 400px wide, which includes my own. The site is not displaying properly at all, though it certainly did when I used Chrome DevTools to determine the changes required.
+
+**Thoughts**
+I feel confused, lost, helpless, frustrated. I will have to try running the site on some of those simulation sites to see if I can sort out what's happening.
+
+**Link(s) to work**
+https://github.com/LillianWight/FacesOfCOVID
+
+
 ### Day 15: August 9, 2020
 
 **Today's Progress**: I finalized all the design elements for facesofcovid.net. I put some navigation links under construction and disabled all the code relating to forms. All that's left are the media queries. I've asked our server guy to make the changes go live tomorrow.

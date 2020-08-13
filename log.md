@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: August 12, 2020
+
+**Today's Progress**: Started troubleshooting the poor display of images on facesofcovid.net (on mobile). Did some reading, tried making changes to declarations relating to height; not the problem. Tried using Lighthouse within DevTools; didn't work. Reported my first issues within GitHub. Installed css-aspect-ratio, an npm tool, but I'm stuck on the step where I check Sass to ensure node_modules is within my includePaths. I've tweeted to @npmjs for help.
+
+**Thoughts**
+There are alot of options to run through so I'm optimistic I'll find the fix. I feel like I'm running uphill with a heavy backpack; I know I can do it but it's so, so hard and it's going to take a long time to get there.
+
+**Link(s) to work**
+n/a
+
 ### Day 16: August 10, 2020
 
 **Today's Progress**: I made facesofcovid.net completely responsive for devices smaller than 400px wide, which includes my own. The site is not displaying properly at all, though it certainly did when I used Chrome DevTools to determine the changes required.
